@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello from Java Docker!");
+        System.out.println("My first Java application running inside Docker.");
+    }
+}
